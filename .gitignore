@@ -1,0 +1,7 @@
+# Environments
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+users.db
